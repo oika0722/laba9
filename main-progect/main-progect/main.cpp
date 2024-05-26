@@ -31,7 +31,7 @@ void output(phone_call* call) {
 }
 
 int main() {
-	setlocale(LC_ALL, "ru_RU.UTF-8");
+	setlocale(LC_ALL, "russian");
 	cout << "Лабораторная работа #9. GIT\n";
 	cout << "Вариант #9. Телефонные разговоры\n";
 	cout << "Автор: Никитенко Диана\n";
